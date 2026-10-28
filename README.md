@@ -1,6 +1,5 @@
 
-<!--
-  🎀 PINK COQUETTE GITHUB PROFILE
+<!-- https://github.com/entle-myezo/EntleMyezo/blob/main/Pastel%20Kawaii%20GitHub%20Developer%20Profile.png
   Replace the placeholders with your real project and contact links.
 -->
 
