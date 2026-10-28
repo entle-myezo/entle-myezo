@@ -7,7 +7,7 @@
   <br><br>
 
   <h1>Hi, I'm Entle 🎀</h1>
-  <h3>Software Developer in Progress</h3>
+  <h3>An Aspiring Software Developer</h3>
   
   <p>
     <i>Building ideas into code · Learning every day · Growing through projects</i>
@@ -72,10 +72,11 @@ A web-based AI assistant designed to help users with email drafting, meeting sum
 * [♡ View Code](https://github.com/entle-myezo/AI-Productivity-Assistant-App)
 * [♡ View Live App](https://clever-ai-buddy-93.lovable.app)
 
-#### ୨୧ Student Enrolment System
-A client-server application for student enrolment, featuring authentication, separate admin/student experiences, and database integration.
-* **Tech:** Java · SQL · MySQL/Derby
-* [♡ View Repository](YOUR_ENROLMENT_PROJECT_LINK)
+#### ୨୧ Washtrack App
+A web-based application designed to track and manage car wash services efficiently.
+* **Tech:** JavaScript · HTML · CSS
+* [♡ View Code](https://github.com/entle-myezo/Washtrack-App-Assignment)
+* [♡ View Live App](https://washtrack-app-assignment.vercel.app)
 
 #### ୨୧ Agile Portfolio
 A project portfolio documenting my work, progress, reflections, and learning throughout my academic journey.
