@@ -7,7 +7,7 @@
   <br><br>
 
   <h1>Hi, I'm Entle 🎀</h1>
-  <h3>An Aspiring Software Developer</h3>
+  <h3>Aspiri</h3>
   
   <p>
     <i>Building ideas into code · Learning every day · Growing through projects</i>
@@ -84,6 +84,15 @@ A web-based application designed to track and manage car wash services efficient
 * [♡ View Code](https://github.com/entle-myezo/Washtrack-App-Assignment)
 * [♡ View Live App](https://washtrack-app-assignment.vercel.app)
 
+#### ୨୧ CPUT Lost & Found System
+A collaborative group project developed for Applications Development. It features a Java backend and an organized workflow for tracking lost and found items on campus.
+* **Tech:** Java
+* [♡ View Code](https://github.com/entle-myezo/PRT2026-Lost_And_Found)
+
+#### ୨୧ Agile Portfolio
+A project portfolio documenting my work, progress, reflections, and learning throughout my academic journey.
+* **Tech:** HTML · CSS · GitHub Pages
+* [♡ View Live Portfolio](https://entle-myezo.github.io/PRP370-PORTFOLIO/)
 
 ---
 
