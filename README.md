@@ -1,11 +1,10 @@
 <div align="center">
 
-  <!-- Option A: Use a hosted image (recommended). Upload your banner to the repo
-       and use the raw URL below. Replace the URL with your own. -->
-  <img src="https://raw.githubusercontent.com/entle-myezo/entle-myezo/main/assets/github-banner.png"
+  <!-- Banner Image: Points directly to the file in your main folder -->
+  <img src="https://raw.githubusercontent.com/entle-myezo/entle-myezo/main/Kawaii%20Pink%20Developer%20Profile%20Dashboard.png" 
        alt="Entle's pink coquette developer banner" width="100%" />
 
-  <br />
+  <br /><br />
 
   <h1>୨୧ Hi, I'm Entle! 🎀</h1>
 
@@ -17,7 +16,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=1000&color=DB7093&center=true&vCenter=true&width=500&lines=Welcome+to+my+little+corner+of+GitHub+%E2%99%A1;A+girl+who+loves+tech+and+creative+ideas+%F0%9F%8E%80;Dreaming+big%2C+coding+one+step+at+a+time" alt="Animated introduction" />
 
-  <br />
+  <br /><br />
 
   ![Profile views](https://komarev.com/ghpvc/?username=entle-myezo&label=Profile%20visitors&color=e88bab&style=flat)
   ![GitHub followers](https://img.shields.io/github/followers/entle-myezo?label=Followers&style=flat&color=f4a7c5)
