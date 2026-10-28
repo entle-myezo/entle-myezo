@@ -1,13 +1,13 @@
 <div align="center">
 
-  <!-- Updated to your new screenshot file, with spaces replaced by %20 -->
+  <!-- Your beautiful pink banner -->
   <img src="https://raw.githubusercontent.com/entle-myezo/entle-myezo/main/Screenshot%202026-10-29%20000547.png" 
        alt="Entle's Pink Developer Banner" width="100%" />
 
   <br><br>
 
   <h1>Hi, I'm Entle 🎀</h1>
-  <h3>An Aspiring Software Developer</h3>
+  <h3>Software Developer in Progress</h3>
   
   <p>
     <i>Building ideas into code · Learning every day · Growing through projects</i>
@@ -17,8 +17,8 @@
     <img src="https://img.shields.io/badge/GitHub-fff0f5?style=for-the-badge&logo=github&logoColor=c74670" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/entle-kallyann-myezo-94812638b">
-  <img src="https://img.shields.io/badge/LinkedIn-fff0f5?style=for-the-badge&logo=linkedin&logoColor=c74670" alt="LinkedIn" />
-</a>
+    <img src="https://img.shields.io/badge/LinkedIn-fff0f5?style=for-the-badge&logo=linkedin&logoColor=c74670" alt="LinkedIn" />
+  </a>
   <a href="mailto:230076238@mycput.ac.za">
     <img src="https://img.shields.io/badge/Email-fff0f5?style=for-the-badge&logo=gmail&logoColor=c74670" alt="Email" />
   </a>
@@ -66,10 +66,11 @@ I'm on a journey to turn what I learn into real-world solutions, build meaningfu
 
 ### 💗 Featured Projects
 
-#### ୨୧ AI Workplace Productivity Assistant
-A web-based productivity assistant designed to help users with email drafting, meeting summaries, task planning, and research.
+#### ୨୧ Clever AI Buddy (AI Productivity Assistant)
+A web-based AI assistant designed to help users with email drafting, meeting summaries, task planning, and research.
 * **Tech:** React · JavaScript · CSS
-* [♡ View Repository](YOUR_AI_PROJECT_LINK)
+* [♡ View Code](https://github.com/entle-myezo/AI-Productivity-Assistant-App)
+* [♡ View Live App](https://clever-ai-buddy-93.lovable.app)
 
 #### ୨୧ Student Enrolment System
 A client-server application for student enrolment, featuring authentication, separate admin/student experiences, and database integration.
