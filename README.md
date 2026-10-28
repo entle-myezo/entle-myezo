@@ -73,15 +73,11 @@ A web-based AI assistant designed to help users with email drafting, meeting sum
 * [♡ View Live App](https://clever-ai-buddy-93.lovable.app)
 
 #### ୨୧ Tact Connect Portal
-A modern web application featuring a member accounts system and integrated database functionality.
+A custom web portal built for my church to manage and display their calendar. Created as a passion project to practice integrating real-world data into a modern web application.
 * **Tech:** React · TypeScript · Supabase
 * [♡ View Code](https://github.com/entle-myezo/tact-connect-portal)
 * [♡ View Live App](https://the-tact-connect-portal.vercel.app)
 
-#### ୨୧ Agile Portfolio
-A project portfolio documenting my work, progress, reflections, and learning throughout my academic journey.
-* **Tech:** HTML · CSS · GitHub Pages
-* [♡ View Live Portfolio](https://entle-myezo.github.io/PRP370-PORTFOLIO/)
 
 ---
 
