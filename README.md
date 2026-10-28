@@ -7,7 +7,6 @@
   <br><br>
 
   <h1>Hi, I'm Entle 🎀</h1>
-  <h3>Software Developer in Progress</h3>
   
   <p>
     <i>Building ideas into code · Learning every day · Growing through projects</i>
