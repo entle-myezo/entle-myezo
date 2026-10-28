@@ -72,11 +72,11 @@ A web-based AI assistant designed to help users with email drafting, meeting sum
 * [♡ View Code](https://github.com/entle-myezo/AI-Productivity-Assistant-App)
 * [♡ View Live App](https://clever-ai-buddy-93.lovable.app)
 
-#### ୨୧ Washtrack App
-A web-based application designed to track and manage car wash services efficiently.
-* **Tech:** JavaScript · HTML · CSS
-* [♡ View Code](https://github.com/entle-myezo/Washtrack-App-Assignment)
-* [♡ View Live App](https://washtrack-app-assignment.vercel.app)
+#### ୨୧ Tact Connect Portal
+A modern web application featuring a member accounts system and integrated database functionality.
+* **Tech:** React · TypeScript · Supabase
+* [♡ View Code](https://github.com/entle-myezo/tact-connect-portal)
+* [♡ View Live App](https://the-tact-connect-portal.vercel.app)
 
 #### ୨୧ Agile Portfolio
 A project portfolio documenting my work, progress, reflections, and learning throughout my academic journey.
