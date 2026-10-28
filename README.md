@@ -91,9 +91,9 @@ A web-based application designed to track and manage car wash services efficient
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=entle-myezo&show_icons=true&hide_border=true&bg_color=FFF7FA&title_color=D65F8D&icon_color=E88BAB&text_color=684653&ring_color=E88BAB" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=entle-myezo&show_icons=true&hide_border=true&bg_color=FFF7FA&title_color=D65F8D&icon_color=E88BAB&text_color=684653&ring_color=E88BAB" alt="GitHub statistics" />
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=entle-myezo&layout=compact&hide_border=true&bg_color=FFF7FA&title_color=D65F8D&text_color=684653" alt="Most-used programming languages" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=entle-myezo&layout=compact&hide_border=true&bg_color=FFF7FA&title_color=D65F8D&text_color=684653" alt="Most-used programming languages" />
 
 </div>
 
