@@ -7,6 +7,7 @@
   <br><br>
 
   <h1>Hi, I'm Entle 🎀</h1>
+  <h3>An Aspiring Software Developer</h3>
   
   <p>
     <i>Building ideas into code · Learning every day · Growing through projects</i>
@@ -75,7 +76,7 @@ A client-server application for student enrolment, featuring authentication, sep
 * **Tech:** Java · SQL · MySQL/Derby
 * [♡ View Repository](YOUR_ENROLMENT_PROJECT_LINK)
 
-#### ୨୧ WashTrack Project
+#### ୨୧ Agile Portfolio
 A project portfolio documenting my work, progress, reflections, and learning throughout my academic journey.
 * **Tech:** HTML · CSS · GitHub Pages
 * [♡ View Live Portfolio](https://entle-myezo.github.io/PRP370-PORTFOLIO/)
