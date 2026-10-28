@@ -78,6 +78,12 @@ A custom web portal built for my church to manage and display their calendar. Cr
 * [♡ View Code](https://github.com/entle-myezo/tact-connect-portal)
 * [♡ View Live App](https://the-tact-connect-portal.vercel.app)
 
+#### ୨୧ Washtrack App
+A web-based application designed to track and manage car wash services efficiently.
+* **Tech:** JavaScript · HTML · CSS
+* [♡ View Code](https://github.com/entle-myezo/Washtrack-App-Assignment)
+* [♡ View Live App](https://washtrack-app-assignment.vercel.app)
+
 
 ---
 
