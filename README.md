@@ -16,9 +16,9 @@
   <a href="https://github.com/entle-myezo">
     <img src="https://img.shields.io/badge/GitHub-fff0f5?style=for-the-badge&logo=github&logoColor=c74670" alt="GitHub" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-fff0f5?style=for-the-badge&logo=linkedin&logoColor=c74670" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/entle-kallyann-myezo-94812638b">
+  <img src="https://img.shields.io/badge/LinkedIn-fff0f5?style=for-the-badge&logo=linkedin&logoColor=c74670" alt="LinkedIn" />
+</a>
   <a href="mailto:230076238@mycput.ac.za">
     <img src="https://img.shields.io/badge/Email-fff0f5?style=for-the-badge&logo=gmail&logoColor=c74670" alt="Email" />
   </a>
