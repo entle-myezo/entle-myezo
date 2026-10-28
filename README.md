@@ -1,11 +1,9 @@
-
-<!-- https://github.com/entle-myezo/EntleMyezo/blob/main/Pastel%20Kawaii%20GitHub%20Developer%20Profile.png
-  Replace the placeholders with your real project and contact links.
--->
-
 <div align="center">
 
-  <img src="assets/github-banner.png" alt="Entle's pink coquette developer banner" width="100%" />
+  <!-- Option A: Use a hosted image (recommended). Upload your banner to the repo
+       and use the raw URL below. Replace the URL with your own. -->
+  <img src="https://raw.githubusercontent.com/entle-myezo/entle-myezo/main/assets/github-banner.png"
+       alt="Entle's pink coquette developer banner" width="100%" />
 
   <br />
 
@@ -93,8 +91,6 @@ My project portfolio documenting my work, progress, reflections and learning thr
 **Tech:** HTML · CSS · GitHub Pages
 
 [♡ View portfolio](https://entle-myezo.github.io/PRP370-PORTFOLIO/)
-
-> Replace the example project links with the actual repositories. Only list technologies that you used in each project.
 
 ---
 
