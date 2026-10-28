@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Image link fixed to match your exact file name: banner.png.png -->
-  <img src="https://raw.githubusercontent.com/entle-myezo/entle-myezo/main/banner.png.png" 
+  <!-- Updated to your new screenshot file, with spaces replaced by %20 -->
+  <img src="https://raw.githubusercontent.com/entle-myezo/entle-myezo/main/Screenshot%202026-10-29%20000547.png" 
        alt="Entle's Pink Developer Banner" width="100%" />
 
   <br><br>
@@ -76,7 +76,7 @@ A client-server application for student enrolment, featuring authentication, sep
 * **Tech:** Java · SQL · MySQL/Derby
 * [♡ View Repository](YOUR_ENROLMENT_PROJECT_LINK)
 
-#### ୨୧ Agile Portfolio
+#### ୨୧ WashTrack Project
 A project portfolio documenting my work, progress, reflections, and learning throughout my academic journey.
 * **Tech:** HTML · CSS · GitHub Pages
 * [♡ View Live Portfolio](https://entle-myezo.github.io/PRP370-PORTFOLIO/)
