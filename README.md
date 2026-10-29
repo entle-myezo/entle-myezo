@@ -31,7 +31,7 @@
 
 ### ♡ About Me
 
-Hey there! I'm **Entle**, a final-year Information Technology student at Cape Peninsula University of Technology (CPUT), passionate about software development, problem-solving, and creating useful digital experiences. 
+Hey there! I'm **Entle**, an Information Technology student at Cape Peninsula University of Technology (CPUT), passionate about software development, problem-solving, and creating useful digital experiences. 
 
 I'm on a journey to turn what I learn into real-world solutions, build meaningful projects, and grow into a confident software developer.
 
