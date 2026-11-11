@@ -66,6 +66,13 @@ I'm on a journey to turn what I learn into real-world solutions, build meaningfu
 
 ### 💗 Featured Projects
 
+#### ୨୧ Washtrack App
+A web-based application designed to track and manage car wash services efficiently.
+* **Tech:** JavaScript · HTML · CSS
+* [♡ View Code](https://github.com/entle-myezo/Washtrack-App-Assignment)
+* [♡ View Live App](https://washtrack-app-assignment.vercel.app)
+
+
 #### ୨୧ Clever AI Buddy (AI Productivity Assistant)
 A web-based AI assistant designed to help users with email drafting, meeting summaries, task planning, and research.
 * **Tech:** React · JavaScript · CSS
@@ -78,11 +85,6 @@ A custom web portal built for my church to manage and display their calendar. Cr
 * [♡ View Code](https://github.com/entle-myezo/tact-connect-portal)
 * [♡ View Live App](https://the-tact-connect-portal.vercel.app)
 
-#### ୨୧ Washtrack App
-A web-based application designed to track and manage car wash services efficiently.
-* **Tech:** JavaScript · HTML · CSS
-* [♡ View Code](https://github.com/entle-myezo/Washtrack-App-Assignment)
-* [♡ View Live App](https://washtrack-app-assignment.vercel.app)
 
 #### ୨୧ CPUT Lost & Found System
 A collaborative group project developed for Applications Development. It features a Java backend and an organized workflow for tracking lost and found items on campus.
