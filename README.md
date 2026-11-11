@@ -74,13 +74,13 @@ A web-based application designed to track and manage laundry machines services e
 
 
 #### ୨୧ Clever AI Buddy (AI Productivity Assistant)
-A web-based AI assistant designed to help users with email drafting, meeting summaries, task planning, and research.
+A web-based AI assistant I designed to help users with email drafting, meeting summaries, task planning, and research.
 * **Tech:** React · JavaScript · CSS
 * [♡ View Code](https://github.com/entle-myezo/AI-Productivity-Assistant-App)
 * [♡ View Live App](https://clever-ai-buddy-93.lovable.app)
 
 #### ୨୧ Tact Connect Portal
-A custom web portal built for my church to manage and display their calendar. Created as a passion project to practice integrating real-world data into a modern web application.
+A custom web portal that I built for my church to manage and display their calendar. Created as a passion project to practice integrating real-world data into a modern web application.
 * **Tech:** React · TypeScript · Supabase
 * [♡ View Code](https://github.com/entle-myezo/tact-connect-portal)
 * [♡ View Live App](https://the-tact-connect-portal.vercel.app)
