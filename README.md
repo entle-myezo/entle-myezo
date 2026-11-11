@@ -67,7 +67,7 @@ I'm on a journey to turn what I learn into real-world solutions, build meaningfu
 ### 💗 Featured Projects
 
 #### ୨୧ Washtrack App
-A web-based application designed to track and manage car wash services efficiently.
+A web-based application designed to track and manage laundry machines services efficiently.
 * **Tech:** JavaScript · HTML · CSS
 * [♡ View Code](https://github.com/entle-myezo/Washtrack-App-Assignment)
 * [♡ View Live App](https://washtrack-app-assignment.vercel.app)
