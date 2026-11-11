@@ -74,7 +74,7 @@ A web-based application designed to track and manage laundry machines services e
 
 
 #### ୨୧ Clever AI Buddy (AI Productivity Assistant)
-A web-based AI assistant I designed to help users with email drafting, meeting summaries, task planning, and research.
+A web-based AI assistant I designed using my AI Prompting skills to help users with email drafting, meeting summaries, task planning, and research.
 * **Tech:** React · JavaScript · CSS
 * [♡ View Code](https://github.com/entle-myezo/AI-Productivity-Assistant-App)
 * [♡ View Live App](https://clever-ai-buddy-93.lovable.app)
